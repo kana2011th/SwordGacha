@@ -1,0 +1,4 @@
+name: SwordGacha
+version: ${project.version}
+main: xyz.kana2011th.swordgacha.SwordGacha
+api-version: 1.13
