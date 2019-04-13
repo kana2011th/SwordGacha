@@ -1,4 +1,4 @@
-# Example Code from kana2011th's Live EP. 6
+# Example Code from kana2011th's Live EP.5
 
 Here's example how to use Event to give potion effect by checking ItemStack which item are you hit by.
 
